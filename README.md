@@ -1,8 +1,6 @@
 # Satellite-Derived Bathymetry Model Predicted Dpeth Threshold
 
-This repository contains a Jupyter Notebook that demonstrates the **workflow** used in the study:
-
-**"Determining where to apply SDB models based – a case study"**
+This repository contains a Jupyter Notebook that demonstrates the **workflow** used in the study: **"Determining where to apply SDB models based – a case study"**
 
 ## 📂 Contents
 
